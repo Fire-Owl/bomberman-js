@@ -16,4 +16,12 @@
     position:absolute;
     z-index: 2;
   }
+  #bomb{
+    width: 40px;
+    height: 40px;
+    background-image: url('asset/images/pokeball.png');
+    display: none;
+    position:absolute;
+    background-size: 100%;
+  }
   
